@@ -1,0 +1,24 @@
+industry_code,sector,sub_sector
+TMT01,Technology Media Telecom,Software
+TMT02,Technology Media Telecom,Hardware
+TMT03,Technology Media Telecom,Telecom Services
+FIN01,Financials,Banking
+FIN02,Financials,Insurance
+FIN03,Financials,Asset Management
+HC01,Health Care,Pharma
+HC02,Health Care,Medical Devices
+HC03,Health Care,Providers
+IND01,Industrials,Automotive
+IND02,Industrials,Aerospace
+IND03,Industrials,Manufacturing
+CONS01,Consumer,Retail
+CONS02,Consumer,Food and Bev
+CONS03,Consumer,Travel and Leisure
+ENE01,Energy,Oil and Gas
+ENE02,Energy,Renewables
+UTIL01,Utilities,Electric
+UTIL02,Utilities,Water
+REAL01,Real Estate,Commercial
+REAL02,Real Estate,Residential
+PUB01,Public Sector,State
+PUB02,Public Sector,Municipal
